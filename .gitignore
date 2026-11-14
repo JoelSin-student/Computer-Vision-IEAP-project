@@ -1,3 +1,9 @@
+#.venv
+.venv/
+
+# Dataset
+dataset_computervision_LECSIN/
+
 # JPEG
 *.jpg
 *.jpeg
